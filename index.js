@@ -1,7 +1,7 @@
 //Definindo o nome e quantidade de experiência (XP) do herói
 let nome = "Eveline";
 let xp = 0;
-//classificando o nível do herói com base no XP
+//classificando o nível do herói com base no (XP)
 let nível;
 if(xp < 1000){
     nível = "Ferro";
